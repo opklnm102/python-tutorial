@@ -1,0 +1,17 @@
+((dp0
+S'jim'
+p1
+I4343
+sS'jack'
+p2
+I9465215
+sS'tom'
+p3
+I4358382
+s(lp4
+S'string'
+p5
+aI1234
+aF0.2345
+atp6
+.

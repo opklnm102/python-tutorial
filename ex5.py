@@ -2,7 +2,7 @@
 
 #산술
 print 1 + -1  #0
-print 2 ** 3  #8
+print 2 ** 3  #8, 지수연산
 print 2 ** 2 ** 3  #256
 print 2 ** (2 ** 3)  #256
 print (2 ** 2) ** 3  #64
@@ -29,8 +29,8 @@ print a, b
 print divmod(5,3)  #(1,2) 몫과 나머지를 튜플로
 
 print
-print 5 / 3
-print 5 // 3
+print 5 / 3  #소수점 이하를 버림
+print 5 // 3  #몫을 구해서 출력
 print 10.52 / 3
 print 10.52 // 3
 
@@ -44,10 +44,10 @@ print (2 + 3) * 4  #20
 print 4 / 2 * 2  #4
 
 
-#관계
+#관계: 객체가 지닌 값의 크기(대소)를 비교하여 True, False를 반환
 print
-print 6 == 9
-print 6 != 9
+print 6 == 9  #두 객체가 동일한지를 판단
+print 6 != 9  #두 객체 값이 달라야 True
 print 1 > 3
 print 4 <= 5
 

@@ -5,9 +5,9 @@
 class Integer:
 	def __init__(self, n):
 		self.n = n
-	def __str__(self):
+	def __str__(self):  #객체를 print할 떄 호출
 		return str(self.n)
-	def __add__(self, other):
+	def __add__(self, other):  #+ 할때 호출
 		#return self.n + other  #reutrn int
 		self.n = self.n + other
 		return self  #return instance
@@ -32,7 +32,7 @@ class MyString:
 	def __div__(self, sep):  #나누기 연산자 '/'가 사용되었을 때 호출
 		return self.str.split(sep)  #문자열 self.str을 sep를 기준으로 분리
 
-	__rdiv__ = __div__
+	__rdiv__ = __div__  #객체가 오른쪽에 위치. ex) "-"/m
 
 	def __neg__(self):  # -(단항)
 		t = list(self.str)
@@ -56,6 +56,7 @@ print "_a" / m
 print -m  #__neg__ call
 print ~m  #__invert__ call
 
+#비교 연산에 대응되는 이름이 정해져 있지만 메소드가 별도로 정의되어 있지 않으면 cmp() 호출
 class MyCmp:
 	def __cmp__(self, y):
 		return 1 - y

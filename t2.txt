@@ -1,0 +1,7 @@
+sam string
+aaa
+bbb
+ccc
+ddd
+eee
+

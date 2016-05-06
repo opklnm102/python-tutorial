@@ -49,8 +49,54 @@ bs.find_all(text=re.compile(" text +"))   #"text "이후 임의의 한문자가 
 print(bs.find_all('p', limit=2))
 print()
 
-# 문장 가져오기
+# Tag내 문장 가져오기
+body_tag = bs.find('body')
+p_tag = body_tag.find('p')
+print(p_tag.string)  #한 문장 가져온다.
+print()
 
+strings = p_tag.strings  #모든 문장 가져온다.
+for string in strings:
+    print(string)
+print()
+
+# Tag에서의 여러문자열을 하나의 문자열로 출력
+p_tag = bs.find('p')
+print(p_tag.get_text())
+print()
+
+# 줄바꿈 기호 지우기
+print(p_tag.get_text(strip=True))
+print()
+
+# 문장끼리 구분을 쉽게할 수 있도록 각문장의 끝에 기호 삽입
+print(p_tag.get_text('-', strip=True))
+print()
+
+# href속성 조회
+body_tag = bs.find('body')
+a_tag = body_tag.find('a')
+print(a_tag['href'])
+print()
+
+# child tag 조회
+print("children")
+for child in a_tag.children:
+    print(child)
+print()
+
+# parent tag 조회
+print("parent")
+print(a_tag.parent)
+print()
+
+# find_parent() - parent를 찾는 find()
+print(a_tag.find_parent())
+
+# find_parents() - 모든 부모를 찾는다.
+parents = a_tag.find_parents()
+for parent in parents:
+    print(parent)
 
 
 

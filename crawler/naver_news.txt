@@ -1,400 +1,500 @@
 -----------------------------------------------------
+news title: Xamarin(자마린) <b>Android</b> application is debugging 해결법
+description: Blank App으로 생성하여 <b>Android</b> Emulator에 배포하려고 할 때 &quot;<b>Android</b> application is debugging&quot;이라고 좌측 하단 Status bar에 오류가 출력될 때 해결법이다. 하, 진짜 개발환경 구축만...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6Li4tyMKr2SzOKS/KJKveT8XKCYkamZWomtoYmZkbmRuYGhiYmRuVqurUFIiUmwgYlPFVBFWYBpultpaKm3WbqJqpFTUo67p6qxCwAilDhLbAAAAA==
+
+-----------------------------------------------------
 news title: [안드로이드] 3. 첫 번째 앱 - Hello <b>Android</b>
 description: 첫 번째 앱 - Hello <b>Android</b> 본문 프로그래밍 기술/안드로이드 [안드로이드] 3. 첫 번째 앱 - Hello <b>Android</b> 언제나 휴일 언제나휴일 2016.04.16 18:49 - Hello <b>Android</b> AndroidStudio 실행하여 Start a new...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6LUjOSc0iS9kszikvyiSr3k/FygoKGFoYVaia2hiZmRuZG5gaGJiZG5Wq5tkptjQLmfq1eoSbKjRUpKmYlzeWREmH9uRkakqrELAC2lPNtqAAAA
 
 -----------------------------------------------------
 news title: <b>Android</b> N Developer Preview 2, out today!
 description: of <b>Android</b> N , to give you a sneak peek at our next platform. The feedback you’ve shared... This latest preview of <b>Android</b> N fixes a few bugs you helped us identify, such as not being...
+link: http://openapi.naver.com/l?AAAE2MTQvCMBBEf016S2m3oe0lB6UIgiJ4EbxVs5pi243p9uvfm4OgMMMc3mPeI/pV173x1JjIenxoy+xEthGwC/kSaXDClhz6Ib619BwccXynLhiQpHmYRP3Z/c+XzuPU4CxB0siSydRrbLlrI9apyqGAIkmVgjLqNG+WcGJP56uAbRlaX5Zpno9Z1cNLFYe9yKoPzOhTS7EAAAA=
 
 -----------------------------------------------------
 news title: <b>Android</b> N Freeform mode 에뮬레이터에 적용해보기
 description: GDG Korea <b>Android</b> 에 ganachoco(Young-Ho Cha) 님이 소개해주신 &quot; <b>Android</b> N Feature Spotlight: Freeform Window Mode Offers True Windowed Multitasking, But It's Disabled By Default &quot; 을 참고하여 작성합니다. 위의 글은...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSjJTUMr281BIg28zUXK3E1tDEzMjcyNzA0MTEyEIt1zbPp8TUzyTX1CvQ2ccxyMM3zy/TtzTS3yOnuFjV2AUADJhgoGAAAAA=
 
 -----------------------------------------------------
 news title: GCM 푸시서버 구현하기(node.js &amp; <b>android</b>)
 description: js-<b>android</b>-client/ 프로젝트생성 http://console.developers.google.com/project 여기로 들어가서... json 파일을 다운로드하여 프로젝트안에 저장한다 – 생략해도됨) <b>Android</b> – Client...
-
------------------------------------------------------
-news title: Best Camera Apps for <b>Android</b>
-description: the <b>Android</b> apps market means you can immortalize every moment of your life in better... for <b>Android</b>: Camera51 – Ideal for beginners If all you’ve been using to take your photos is...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KUxKLs4sycpNQivZLM4pL8okq95PxcoIShpaVaia2hiZmRuZG5gaGJiZGFWq5tcnGpf7CFiRdQgXtkZpElkPYuz/QLsgjL9K3IMFA1dgEA2EaZwHEAAAA=
 
 -----------------------------------------------------
 news title: AndroidStudio에서 lombok 사용하기
 description: 자바에서 코드를 작성 시 모델을 만들다 보면 constructor와 기본 getter/setter.. 그리고 상황에 따라서 builder를 만들어 사용해야 합니다. 그런데 이런 일들을 모두 타이핑 하다...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KUouTEopLUIr2SzOKS/KJKveT8XKCwobmZWomtoYmZkbmRuYGhiYmRhVqurUtFYEhEmHmBS6pHVJabgWtpeVlhqru5n3+Oo6qxCwCYvGnHawAAAA==
 
 -----------------------------------------------------
 news title: <b>Android</b> 위치 추적, 기록
 description: com/<b>android</b>/devicemanager 이렇게 현재의 위치를 확인 할 수 있습니다. 이런 기능들을... 카카오스토리 페이스북 <b>Android</b> ' 카테고리의 다른 글 <b>Android</b> 위치 추적, 기록 2016.04.11 Software with the...
+link: http://openapi.naver.com/l?AAAD2LXwuCMBTFP818S9ycuj3sYf6rIAiKPoCkooGz5jX027dbJFzO5ZzfOa+5sauqTG3HvvY627SqA3iSUBNWuoPKTJW5+9BPMNrVv4+DSxsDdnVf/3Y7wqIicyJRBP/bVGImNpzG6DesA2zTL9aIBQqGRYqYYjv3QFEes4QlAeWcCW9Q50Ve3zde1t0lCrPDSbRLH8/y+NhrEuYfx0i0CNMAAAA=
 
 -----------------------------------------------------
 news title: <b>Android</b> 맥 안드로이드 개발 환경 구축 (이클립스/자바...
 description: 안드로이드 <b>Android</b> 맥에서 안드로이드 개발 구축 (이클립스/자바) 학교 수업시간에... com/<b>android</b>/eclipse 혹은 http://dl-ssl.google.com/<b>android</b>/eclipse 를 입력합니다! NAME은 아무거나 상관없어서...
+link: http://openapi.naver.com/l?AAABWMwQ6CMBBEv6YcCWwJ1EMPGsKJoMGLN4NQSo20ui1q/941mcu8mbzXpjDKwU7ozJQsqGa5hPBkfM+godweTqd2eCtMR7cSiAqNvTruGG96NRlUY2C8bp1mUNK5o6EGyKosL/lO5CIJMi9KqIBIUYBIVnk5b9HDUX99e++RwUF84PR3W0Fl7jwpfkiONbyZAAAA
+
+-----------------------------------------------------
+news title: Apple Music for <b>Android</b> gets access to family sharing...
+description: Apple’s music app has got a worthy update for <b>Android</b>. With this update, the Apple Music app will now provide access to a variety of music videos to <b>Android</b> users. Earlier, these...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSotS8lKSc/HS9vNQSID+xoCAnVTe3tDgzWTctv0gXqhMoo1Zia2hiZmRuZG5gaGJiZKGWa+tTUuoVkmKkauRUZBZqnu5R6ZceaFqablGZbpHnq2rsAgAdf1qsfQAAAA==
 
 -----------------------------------------------------
 news title: [<b>Android</b>] Custom View, Custom Layout
 description: import <b>android</b>.content.Context; import <b>android</b>.content.res.TypedArray; import <b>android</b>.graphics.Canvas; import <b>android</b>.graphics.Color; import <b>android</b>.graphics.Paint; import <b>android</b>.graphics.RectF; import...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L8vNTk1JycpPxKvZLM4pL8okq95PxcoISxiYlaia2hiZmRuZG5gaGJiZGFWq6tT1meibtZqIWnr4ebl3NUcbFBgXuJQWKlgZmvqrELANvL9w5tAAAA
 
 -----------------------------------------------------
 news title: Next version of <b>Android</b> will feature Apple's 3D Touch...
 description: The upcoming version of <b>Android</b> is still under its developer preview. Dubbed as <b>Android</b> N, its forthcoming build will introduce the Force Touch feature, which will be quite comparable...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSotS8lKSc/HS9vNQSIB+qUjdP1zhFtyS/NDkDKKhWYmtoYmZkbmRuYGhiYmShlmubmxpRUBEVpmrk5JsYnupkYZ7oV2UYkhwckm/uH6pq7AIA6cCH5ngAAAA=
 
 -----------------------------------------------------
 news title: 안드로이드 새로고침 + <b>Android</b> SwipeRefresh
 description: 편하자나~ 아래 API 설명참고 http://developer.<b>android</b>.com/intl/ko/reference/<b>android</b>/support/v4/widget/SwipeRefreshLayout.html 먼저 스크린샷을 보면 ListView 안에 11,22,33,44...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L09MSiTL2SzOKS/KJKveT8XKCYqZGFWomtoYmZkbmRuYGhiQmQn2tb5pHjYQrSklpY6pViaOmUGqxq5JQZlpgBpCrMgBLlqsYuANKCe89wAAAA
 
 -----------------------------------------------------
 news title: <b>Android</b> N Developer Preview 2 breaks Nexus exclusivity...
 description: <b>Android</b> N is Google’s upcoming version of <b>Android</b>, which will be a successor to <b>Android</b> 6.0 Marshmallow. Until now, the preview for <b>Android</b> N was limited for testing to the Nexus...
-
------------------------------------------------------
-news title: [<b>Android</b>] 안드로이드 App.과 WebView의 Javascript간...
-description: com/questions/5264489/how-do-i-pass-return-values-from-a-javascript-function-to-<b>android</b> 2. 안드로이드 App.에서 WebView로 메시지 전달 (1) <b>Android</b> App.부분 (첨부된 MainActivity.java 참고) (2)...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSotS8lKSc/HS9vNQSIL84P69St6IgtSgzUbfKWBeqUTcPKKVWYmtoYmZkbmRuYGhiYmShlmub5FsVmhbsUxaYWRweaOrvYVxklutRVFER4RWqauwCANxc7zR8AAAA
 
 -----------------------------------------------------
 news title: 안드로이드 하이퍼링크 만들기(<b>Android</b> Hyperlink)
 description: 텍 스트 뷰에는 아래와 같이 <b>android</b>:autoLink 라는 Attribute이 있는데요 AutoLink를 사용... &lt;RelativeLayout xmlns: <b>android</b> = &quot;http://schemas.<b>android</b>.com/apk/res/<b>android</b>&quot; <b>android</b> :orientation= &quot;vertical...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KMxKKU8vyi7NSiYr2SzOKS/KJKveT8XKCMoaGBWomtoYmZkbmRuYGhiYmRhVqubaFLbnKEb6mXu2uBoadLWGCieViAS0iUYV5GsaqxCwC9F+1SbgAAAA==
 
 -----------------------------------------------------
-news title: These <b>Android</b> Emulators let you experience your...
-description: Not all of us are geeky enough to understand what is an <b>Android</b> Emulator? Well, it is a program which lets you run <b>Android</b> apps and games on your PC. It is more like a virtual interface...
+news title: [<b>Android</b>] 안드로이드 App.과 WebView의 Javascript간...
+description: com/questions/5264489/how-do-i-pass-return-values-from-a-javascript-function-to-<b>android</b> 2. 안드로이드 App.에서 WebView로 메시지 전달 (1) <b>Android</b> App.부분 (첨부된 MainActivity.java 참고) (2)...
+link: http://openapi.naver.com/l?AAAB2NTQqDMBSET5MsxTxDYhdZKCIopYv2BDGJP6BGQyzx9n0UZjHzMcyclwu30rsNfrF0Dm5Uc4wHKSoCLWpY/ZTt+utCZvyGQG/DYl2KpGjfzi7BGbTN008EBHZfHhNALh5SSMGFpFExLkCCzBnnUNJNJZsTqKs1/S/qg6XmLs/u6kdTdbz/lDjxA6JjZmSYAAAA
 
 -----------------------------------------------------
 news title: Hello, <b>Android</b> 기본 앱 만들어 보기
 description: https://developer.xamarin.com/guides/<b>android</b>/getting_started/hello,<b>android</b>/hello,<b>android</b>_quickstart/ 위 링크에 이미지까지 포함하여 아주 잘 설명되어 있어서 그냥 보고 따라 할수도 있는데 안드로이드...
+link: http://openapi.naver.com/l?AAABWLyw6CMBQFv6YsSXuLpV10YUJINMQYNgZ3SC9QeRSbYvTvrcnZzGTOa0f/1e1qvLMmGT32egxhI/xIoIx7zG5I1/aNPu3c8hfoDO7zZr0lvKzRWI9dILyo3EBAxPziIgFQkQsqJCiaBM0yATnklGUZqGTRk5km2/DrRxY3hue6eQ4HWZ3uTNF4/gEZzBBhlQAAAA==
+
+-----------------------------------------------------
+news title: These <b>Android</b> Emulators let you experience your...
+description: Not all of us are geeky enough to understand what is an <b>Android</b> Emulator? Well, it is a program which lets you run <b>Android</b> apps and games on your PC. It is more like a virtual interface...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSotS8lKSc/HS9vNQSIB+qUjc1tzQnsSS/qFg3Lb9ItyAZKKVWYmtoYmZkbmRuYGhiYmSplmubG+FpFBmUnZNpEqpq5BRukOnoZpBRmV1cYeDqlK9q7AIAKCiso34AAAA=
 
 -----------------------------------------------------
 news title: Best Antivirus Apps for <b>Android</b> - Anti-Malware Guide 2016
 description: for <b>Android</b> devices is still a hotly debated topic . One side would have us believe that the number of malware out there for <b>Android</b> is expanding at a near exponential rate, while the...
+link: http://openapi.naver.com/l?AAACWLQQrDIBQFT6O7lGisIQsXgpQuCz2BQRstxtjvt6W3r1B4DAzDezUPX2WzgyM6GsA/VEAsZNKEX/oQfHZrOrZT9th99RUHmzG+I7Q62FI6/u9eKSomJJ/5PDIh+EJ3lfTHJCnxvN/GxTyvkaVQ230TQpPJ/ACQTmEyfwAAAA==
 
 -----------------------------------------------------
 news title: How To Remove The Google Search Bar On <b>Android</b> 4.0+
 description: I like to make use of as much screen space as possible on my <b>Android</b> home screen. But on stock <b>Android</b> there’s just one thing that used to annoy me: the persistent Google search bar...
-
------------------------------------------------------
-news title: [<b>Android</b>] <b>Android</b> Studio 2.0 - Instant Run 끄기
-description: 티스토리 뷰 나의 플랫폼/안드로이드 [<b>Android</b>] <b>Android</b> Studio 2.0 - Instant Run 끄기 GsBOB 2016.04.21 18:38 <b>Android</b> Stdio 2.0으로 업그레이드 됐다고 구글에서 홍보를 엄청 하지만, 빌드 한번...
+link: http://openapi.naver.com/l?AAAC2MQQvCIBhAf43ejOlso4OHVgwvIyKidXTzS4Op9WVB/z4Pwbs8eLznG/CrTLSY7pZ6hJvyOT9IvSWiL2SEaKcluVWEXBwhpA8wl5JbgL3A4OzZZJD9FyWhWXHZiFa0FZdSbGhQ6/F61oc5HE9EdENuxuAueqd5JYv3A6n3P68KacyIAAAA
 
 -----------------------------------------------------
 news title: <b>Android</b> Volley ↔ WebView 간 세션 공유 문제
 description: <b>Android</b> Volley는 내부적으로 HttpUrlConnection을 이용한다. 따라서 세션이나 쿠키같은 서버와 통신하는... <b>Android</b> Volley 와 WebView 간의 세션 공유는 아직은 부드럽게 할수 없다. 2. 이를 어떻게든 하고...
+link: http://openapi.naver.com/l?AAAA2MywrDIBREv0aXQa8S7cJFS5ssGgotXXSbqHlA4k3EBNqvrzCbOcyZbffxa9rgIk6OjtH3ZkxpJeJMoMrpZhyK0B4+FhaXDOyMu7OTJ6J6eTdFbxMR1wYHAmXePjA3AKYYMK2YLmkyXJagQDEuJZzoYj6rbrdL3fNfLZ/5supEc8Bdv0OHt6z/AUalXCqUAAAA
+
+-----------------------------------------------------
+news title: [<b>Android</b>] <b>Android</b> Studio 2.0 - Instant Run 끄기
+description: 티스토리 뷰 나의 플랫폼/안드로이드 [<b>Android</b>] <b>Android</b> Studio 2.0 - Instant Run 끄기 GsBOB 2016.04.21 18:38 <b>Android</b> Stdio 2.0으로 업그레이드 됐다고 구글에서 홍보를 엄청 하지만, 빌드 한번...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L0/PT8ouSMdL2SzOKS/KJKveT8XKCwiYGlWomtoYmZkbmRuYGhiYmRpVqubVmQV1aBqpFTgV9JUJJfqZOZWVq2Z3JoVZWHYWa+qrELAItH1bFtAAAA
 
 -----------------------------------------------------
 news title: Google Camera app's <b>Android</b> N preview version now...
 description: <b>Android</b> N is still under works and it will take a couple of months for the update to officially become available on <b>Android</b>-powered devices. Needless to say, it will be a long process...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSotS8lKSc/HS9vNQSID89Pz89J1U3OTE3tShRF6pPNw8oo1Zia2hiZmRuZG5gaGJiZKmWa+vna25a7pNqEFjgHRHiHhRQ4lHgmhyVU5RsZqBq7AIAZqdIPXsAAAA=
 
 -----------------------------------------------------
 news title: [<b>android</b>] SSO와 Service
 description: 네 보기 좋다하여 꺾지 말아라 [<b>android</b>] SSO와 Service 본문 프로그래밍/<b>Android</b> 짜투리 지식 [<b>android</b>] SSO와 Service 선제 2016.03.29 14:57 SSO를 구현하면서 아주 조금(0.1%)의 OAuth 와 Service...
-
------------------------------------------------------
-news title: The Best HIV iPhone and <b>Android</b> Apps of the Year
-description: Bot iOS and <b>Android</b> users can enjoy these apps for free, also you can get best paid applications for <b>Android</b> on internet. HIV ATLAS <b>Android</b> The fight against HIV has been advanced by...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KMxJKSTL2SzOKS/KJKveT8XKCYoYGFWomtoYmZkbmRuYGhiYmRpVqurXtwuFkkUNaiPNgy3cA4tdDU19nJyacyo1zVyAko7qlq7AIAvKvUp24AAAA=
 
 -----------------------------------------------------
 news title: The Best Email Apps for <b>Android</b> - 2016 Edition
 description: native <b>Android</b> software thanks to the widespread availability of email apps. But which one is the best email app on <b>Android</b>? We know choosing one is hard and that’s why we’ve...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSotS8lKSc/HS9vNQSID8ptbhENzU3MTNHN7GgoFg3Lb9IF6obKKtWYmtoYmZkbmRuYGhiYmSplmvr4V8a5JGb7pIY6gNUEFLone5qZJoMZHp7O5dapqsauwAANoL7oIMAAAA=
 
 -----------------------------------------------------
 news title: Configuring <b>Android</b> Studio
 description: Configuring <b>Android</b> Studio Intro <b>Android</b> Studio has a cool feature to Import Export settings. So during installation of new <b>Android</b> Studio version I usually import my previous settings....
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L80pKczNSiYr2SzOKS/KJKveT8XKCwobGZWomtoYmZkbmRuYGhiYmRpVqurbGXaYF7WJlTSHJKWk5KEFBdpl+2T7BFRXJRoIGqsQsASQL0KW0AAAA=
 
 -----------------------------------------------------
-news title: <b>Android</b> Studio Arr Library 만들기
-description: <b>Android</b> Library 1.1 종류 1.1.1 AAR (<b>Android</b> Achieve Library) ARR은 기존의 안드로이드 JAR와는 달리 package전체를 포함한다. 따라서 자체 resource를 갖게 되므로 layout...
+news title: The Best HIV iPhone and <b>Android</b> Apps of the Year
+description: Bot iOS and <b>Android</b> users can enjoy these apps for free, also you can get best paid applications for <b>Android</b> on internet. HIV ATLAS <b>Android</b> The fight against HIV has been advanced by...
+link: http://openapi.naver.com/l?AAAC2Nyw6CMBREv6bsLrEPQRYsfOBOwsYPACm0htLaXjD8vTWaTDKZzEnOa5F+K9u591b3ifJyKBWiI/xI2DXG2aBRr3La0I4SlfQpLqabfPqw5vdjLCoYLzJK95yzOCMHnQwISq+gnbKzhOiAvwda5wLYAb7cJlufYElFxnKW76gQrEhM6SrCTuegzXtUDW+qw7N2lN9FZ4b6RvjlA1jhn5W5AAAA
+
+-----------------------------------------------------
+news title: Best Camera Apps for <b>Android</b>
+description: the <b>Android</b> apps market means you can immortalize every moment of your life in better... for <b>Android</b>: Camera51 – Ideal for beginners If all you’ve been using to take your photos is...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSotS8lKSc/HS9vNQSID8ptbhENzkxN7UoUTexoKBYF6oVKKVWYmtoYmZkbmRuYGhiYmSplmvrVeaakZHjU5FuYlpl5pwRGRngk1ia7lPpV2qgauwCACpH62Z8AAAA
 
 -----------------------------------------------------
 news title: 스마트폰,핸드폰 사진복구 앱 <b>Android</b> Assistant 입니다.
 description: 오늘은 스마트폰의 유용한 앱 <b>Android</b> Assistant를 소개합니다. 아시는 분들은 다 아실 터이지만, 그래도... <b>Android</b> Assistant는 안드로이드 기기의 작동속도를 개선시키며 배터리를 절약해주는 가장 강력하고...
+link: http://openapi.naver.com/l?AAABWMyw6CMBREv6ZdknLbtHbRBQQxMcaFunHJozwC9EqtRv7ekkxmMWdy1o/1m6lc63Fs6eBtZ4YQXoRnBMqYesY+cdXX+qTBJQ7TNNSIhJc3247eNoHw4oI9ARmf1wgKACYV00xLrWgwqZCgQLFUCNB0Mff3mm1iJpAfMX8G9/NzftrFGOtxPuyKPzyNcgqWAAAA
+
+-----------------------------------------------------
+news title: <b>Android</b> Studio Arr Library 만들기
+description: <b>Android</b> Library 1.1 종류 1.1.1 AAR (<b>Android</b> Achieve Library) ARR은 기존의 안드로이드 JAR와는 달리 package전체를 포함한다. 따라서 자체 resource를 갖게 되므로 layout...
+link: http://openapi.naver.com/l?AAAA2LsQ6DIBRFvwZGow+EOjDYNE6mjU0XpwYFgVSlIrXp35fkLufk3O2jw0/IVQXvFLZBT8LG+EakRtCkDbM32SoPHbLRL0koeTj13O3LLYg0d61c0GNE5NJ6g4Cl/OoTAeSsAuCkLE84ioIy4MDzglKo8CKiefC53ditJsN3Wvt56rtQU76fu3T+A+erAJKVAAAA
+
+-----------------------------------------------------
+news title: Scan and annotate with the new Evernote for <b>Android</b>
+description: for <b>Android</b> phones. We’ve wanted that too. Today, we’re proud to present our latest Evernote for <b>Android</b> update with some features we’re sure you’ll love! Get the new Evernote...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpKFY1dlQ1cgOipJz8dL3UstSivPySVL3k/FyoGJAyMjA0A1IGpjCiODkxTzcxD6gysSRVF6ZJF2o6UIFaia2hiZmRuZG5gaGJibGBWq6tgUmub5WLf6lFcH6ok1dJkYlvYWB2mG9ihE+kqrELAAX5PGCfAAAA
 
 -----------------------------------------------------
 news title: BlackBerry to release two mid-range <b>Android</b>-powered...
 description: To reclaim its lost glory in the smartphone industry, the company is planning to make <b>Android</b> its major OS. After the success of Priv, BlackBerry is planning to add two more <b>Android</b>...
-
------------------------------------------------------
-news title: [링크] <b>Android</b> N 멀티윈도우 - 어떻게 대응해야 할까?
-description: 지난 정리 글 : <b>Android</b> N Multi Window 살펴보기 <b>Android</b> N Multi Window Freeform mode 에뮬레이터에 적용해보기 API 문서 <b>Android</b> N Multi Window API 안드로이드 멀티 윈도우 멀티 윈도우 적용 시 달라지는...
+link: http://openapi.naver.com/l?AAAC2MQQvCIBhAf43ejE0tTx5GEesQFaOgbnN+tpHp/GbE/n07BO/y4PHSB3DWbbAYB0t7BKf7nEciKsL3CxkhWOPjcxUgL258270MIM4MwUM7AcvfyP4DNvYxwLR0NOtSbrjiqiilFAV9a7c+D2Z7bw7uVj+OrkmV6NK1Vid3IWL3A14Ij5CJAAAA
 
 -----------------------------------------------------
 news title: <b>Android</b> Framework 소스를 다운받아 보자
 description: 이를위해서 Open Source인 <b>Android</b>의 Framework source를 다운받고 싶은데 Google Git을 통해 받아오는게... https://source.<b>android</b>.com/source/downloading.html 페이지에 들어가면 안드로이드 소스를 다운받는...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6Ki1MQco/L8PAO9kszikvyiSr3k/FyguJmZWomtoYmZkbmRuYGhiYmxgVqurZlTlLuqkZNlfoqjY5lLUbFRkCuQW5HpbFpobGqWrmrsAgDihCzhbwAAAA==
+
+-----------------------------------------------------
+news title: [링크] <b>Android</b> N 멀티윈도우 - 어떻게 대응해야 할까?
+description: 지난 정리 글 : <b>Android</b> N Multi Window 살펴보기 <b>Android</b> N Multi Window Freeform mode 에뮬레이터에 적용해보기 API 문서 <b>Android</b> N Multi Window API 안드로이드 멀티 윈도우 멀티 윈도우 적용 시 달라지는...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KSjJTUMr281BIg28zUQq3E1tDEzMjcyNzA0MTE2EAt17Y4tKgiPTezyjA/ID8lNywsID880SPCpCCvMF/V2AUAqGtrr2AAAAA=
+
+-----------------------------------------------------
+news title: 새로워진 <b>Android</b>용 Evernote로 스캔하고 주석을 추가하세요
+description: Scannable 출시 이후, 많은 분들이 <b>Android</b> 휴대폰에도 비슷한 기능을 도입해달라고 요청하셨습니다. 그것은 저희도 바라던 바였습니다. 오늘 소개해 드리는 <b>Android</b>용 Evernote 최신 업데이트에는...
+link: http://openapi.naver.com/l?AAADWNwQ6CMBBEv4beSkpB8NIDxogJXjwRjggLJUKr7QL69+5Bktk3yWZ35r2A+6rGdM6OHdMOeqURXz6I80BeSI/JDiGs4IxFCFs70+5pCVJEKZk47PBtYzgl0dBtg8C3ETVHDdzAxvcM3lvH/4X0xVBFSSozmYkoSWLBZnX3t6qVEo9T6cthsaeqWD/5tcjrOojPP/jXR0eyAAAA
 
 -----------------------------------------------------
 news title: [<b>Android</b> Studio] AAR, JAR Library Auto Update
 description: lib name: smartlink lib project 경로: &quot;D:/BuildUser/<b>Android</b>/LibAAR/lib_blt&quot; ex)1.1 include ':smartlink'1.2 project(':smartlink').projectDir = new File('D:/BuildUser/<b>Android</b>/LibAAR/lib_blt') (refer to)...
+link: http://openapi.naver.com/l?AAAA2LwQ6CMBAFv6YcSdltIBx6QAknrMGjF4NshUZgtRaMf2+Td5nJvPdm/U/3K3l2lEzePvQUwktgJaCJu888pmu/W58OvERB/e7o9pmebhHYXCw5b4cgsG55FJDH3HAkAJmXgKUsEZKgM5VDAYXMlEKZLLqbqRNwMGG7nlidW3MsqGq2URnGb7z/AV678TSXAAAA
 
 -----------------------------------------------------
 news title: Skimble Announces <b>Android</b> Watch Experience for Workout...
 description: Workout Trainer now works on <b>Android</b> smartwatches . Our latest <b>Android</b> app update on Google Play Store and Galaxy Apps Store offers compatibility with countless <b>Android</b> watches...
+link: http://openapi.naver.com/l?AAAC2Myw6CMBREv6bsSvoAuupCY4wuNG6Mj12pRRpoi5cSxK+3C5LJmWROMp/JwCKVf0Gwr6wF08g2xmFEfIPYPqXuwzsfO+vq3uQ6uDQxQqtUhCfQMmHVWHkfJq/NiNdDPKuoW2y+gwFrksFNADwH6MIUcQRlvYF0kEVJi4oJJggtCk4yJ+8/xLaleFp9PS1ARXN2x5si1eXg+APx3R/mSRCtuQAAAA==
 
 -----------------------------------------------------
 news title: Best Audiobook Apps for <b>Android</b> - 2016 Edition
 description: Load some audiobooks onto your <b>Android</b> smartphone or tablet and listen while jogging... with <b>Android</b>. But audiobooks tend to be long and complex with lots of chapters. That’s why you...
+link: http://openapi.naver.com/l?AAAC2LsQ7CIBQAvwY2TAukdWEwaTQ2OldHCCikyqP0Eevfy2Byy+VyS3H5q3S0GYKlPruH8oiJiAPhxwpmF615wXMXHVY3bkWmiw1gAGamU1rZ/66Vomplx3veN62UoqFvNV0++lZTSLCNg++W+8hP0zWU/ZbPRAw/lL9TpYEAAAA=
 
 -----------------------------------------------------
 news title: Best <b>Android</b> Ad Blocker for Rooted &amp; Unrooted Devices
 description: In the following I’ll show you the best ways of blocking ads on your <b>Android</b> device... AdAway – The best Ad Blocker for rooted devices If you have root access to your <b>Android</b> device...
-
------------------------------------------------------
-news title: Xamarin(자마린) <b>Android</b> application is debugging 해결법
-description: Blank App으로 생성하여 <b>Android</b> Emulator에 배포하려고 할 때 &quot;<b>Android</b> application is debugging&quot;이라고 좌측 하단 Status bar에 오류가 출력될 때 해결법이다. 하, 진짜 개발환경 구축만...
-
------------------------------------------------------
-news title: <b>Android</b>와 iOS로부터 비밀키를 원격에서 훔치는 방법
-description: 매주 iOS나 <b>Android</b>플랫폼의 새로운 Exploit가 발견되고 있다. 대부분이 별개이지만 최근 발견된 Exploit는、<b>Android</b>와 iOS 디바이스의 양쪽을 타켓으로 하고 있다. 텔아비브 대학과 이스라엘 공과대학...
+link: http://openapi.naver.com/l?AAAC2LPQ+CMBRFfw3damip4NLB+DEYiYObG20fQpRWX1+b8O/FhOQO9+Se+02As+68wzA6NiD0eiD6FNW+kOclhOCdeYfnxgMtbCASX3Xe/Rf7AuR9QI4hEDie/Foc5NFCXE6MtFC1bGRTCqWqkk3apEmJ3eV2yrNowsO28bCd6uzu17aojj9HxMSslgAAAA==
 
 -----------------------------------------------------
 news title: G5를 무료로? <b>Android</b> Authority 이벤트
 description: <b>Android</b> Authority 이벤트 본문 어머 사야만해/Event G5를 무료로? <b>Android</b> Authority 이벤트 pleasebetrue 2016.02.22 15:37 <b>Android</b> Authority 는 안드로이드 기기를 전문으로 다루는 유튜브 채널인데...
+link: http://openapi.naver.com/l?AAAA3JvQ6CMBAA4KdpR0J/4Fg6GI1xQEcGtxaOAAELx0Hg7SX5tm/ZkE7nfw3FvpEdYes65lmYm9DPyzyiXzEg04YJ9ytHOpM6TlfprJDslM01aEiVtSaVkwPYD+PbcuBSher7pvCB+169YIjCPP79hQcobwAAAA==
+
+-----------------------------------------------------
+news title: <b>Android</b>와 iOS로부터 비밀키를 원격에서 훔치는 방법
+description: 매주 iOS나 <b>Android</b>플랫폼의 새로운 Exploit가 발견되고 있다. 대부분이 별개이지만 최근 발견된 Exploit는、<b>Android</b>와 iOS 디바이스의 양쪽을 타켓으로 하고 있다. 텔아비브 대학과 이스라엘 공과대학...
+link: http://openapi.naver.com/l?AAAA2LQQ6DIBQFT4NLAx8C7YJFjXHREJrYEyhQNajYX9q0ty/J28xk3vMd8KeH3WNafDVjeOg554PwC4GubFzTVO/DJ2Dt0laEex0DRiYI7/rgFwwuE96aNBGQpbWpEACVigM9MVBV1kxIUKAoE4LTatMRrJknm69f0fDm3o5n00spYr65cv4Dc67tbJIAAAA=
 
 -----------------------------------------------------
 news title: How to Find Your IMEI on <b>Android</b> &amp; iOS Without the Phone
 description: Knowing your IMEI number can help to mount a quick response should your expensive <b>Android</b>... or <b>Android</b> phone with only a few steps. What is an IMEI and Why do I need to know it? Before...
+link: http://openapi.naver.com/l?AAAC2LsQ6CMBQAvwa2Z6CtFocOGMNCgq6Okhb6AvTV+gjh72UwueWSu8/q0m7ewSZCm/vkBuOZYybrTDQHnFyw/UzjKTg+3NMGTDBgsICLQ/ivgPSFDdnTyhA9BXfEOZtSXYQWuiiVkkW+mKqlxzTeuuirae7Pr0Zj91Tjtd0pk/cffN/G+44AAAA=
 
 -----------------------------------------------------
 news title: How to stop automatic app updates on your <b>Android</b> device
 description: App updates within the Google Play Store are a fact of life for <b>Android</b> users – but it... on <b>Android</b> devices. Why stop automatic app updates on <b>Android</b> phones? One advantage of...
-
------------------------------------------------------
-news title: [ <b>Android</b> ] 가로 / 세로 모드 처리(GridView) 요약
-description: Manifest&lt;activity <b>android</b>:name=&quot;.MainActivity&quot; <b>android</b>:configChanges=&quot;keyboardHidden|orientation|screenSize&quot; &gt; &lt;/activity&gt; * screenSize가 핵심.. 해당 옵션을 넣어야 onConfigurationChanged...
+link: http://openapi.naver.com/l?AAAC2MvQrCMBgAnybZIm0TjEsGQRQHB0GlHb+a2LTa/PWr2rc3g3DLwXFxNmlR4HTyvaY2mYeyiIHwLan2GUzG6fblu5UzmN36D5vQBwYz+hGwvzMIgc1BA5qJ/Uc5pKhKsa5kJYtSCF7QUTVtBOlvS306D8P7EJ/NpT7Cd5PreCV89wM0r2zmjAAAAA==
 
 -----------------------------------------------------
 news title: <b>Android</b> Programming:) Animation적용시 주의할 점
 description: - Drawable animation이든 View animation 이든 xml레이아웃 안에 <b>android</b>:src 또는 <b>android</b>:background 로 원본 이미지 소스 넣어져 있어야 함.(둘 중에 뭔지는 필요에 따라) - 이미지나 버튼에 translate...
+link: http://openapi.naver.com/l?AAAA2MsQ6CMBiEn6YdCbSlZelAokyGAXSoG9KfgliqTRV9e//LLffl7l5viD89bDaGxdI5wqTnlJ6E14Q16NsjuGwbPhCzMXgEd1RYV8KbDuwSYUyEH07BESax2gZMjOWyKpVUoqxo0oWQTDGVF0LwnHot7RmW69cN7d5XyRx91xuOz5O51DvO/+2GYOSTAAAA
 
 -----------------------------------------------------
-news title: T-Mobile now rolling <b>Android</b> 6.0 Marshmallow update to...
-description: After a wait of almost a year, T-Mobile has finally rolled out the <b>Android</b> 6.0 Marshmallow update to the Galaxy Note 5. As per a report by SamMobile , the OTA update is 1,421.63 MB in...
+news title: [ <b>Android</b> ] 가로 / 세로 모드 처리(GridView) 요약
+description: Manifest&lt;activity <b>android</b>:name=&quot;.MainActivity&quot; <b>android</b>:configChanges=&quot;keyboardHidden|orientation|screenSize&quot; &gt; &lt;/activity&gt; * orientation과 screenSize가 핵심.. 해당 옵션을 넣어야...
+link: http://openapi.naver.com/l?AAAA2MsQ6CMBRFv6aMpH2tEIYOKtZBw6AYZmxLgQDVUkz4e19yl3tycr6bDbtsFxP8YJI+2E72MX4IPxJQuPfkXbq0PxtS7WcE076yglLC1cOaIVgdCS/v3hHIUK08PgCaUwYHxguWRMlEBjkgEYKzZJZK1xg6XctXdd6aW7OOfpiw3I31s704DPwBSdT1P5UAAAA=
 
 -----------------------------------------------------
 news title: [2] 안드로이드 개발 환경 구축하기 - <b>Android</b> SDK
 description: 안드로이드 스튜디오 / 안드로이드 SDK 다운로드 웹 브라우저에서 http://developer.<b>android</b>.com/sdk/ 에 접속하게 되면 맨 처음 화면으로 [ <b>Android</b> Studio ] 다운로드 화면이 나오게 됩니다. 최근 들어...
-
------------------------------------------------------
-news title: 옴닝 Edupresso esol <b>Android</b> 27 Package 출시!
-description: 기존 수업 방식에서 스마트한 디지털 기기를 제공하여 학생들에게 더 나은 수업 환경을 제공할 수 있다고 합니다 패키지를 수업환경에 적용했을 때 장점으로는 - <b>Android</b> Tablet으로 설치가 간단하고...
-
------------------------------------------------------
-news title: <b>Android</b> Studio 2.1 업데이트 및 단축키 일람
-description: http://tools.<b>android</b>.com/recent/androidstudio21andemulator2513available 이번 업데이트는 기본적으로는 N... <b>Android</b> Studio Tips And Tricks http://developer.<b>android</b>.com/intl/ko/sdk/installing/studio-tips.html <b>Android</b> Studio...
+link: http://openapi.naver.com/l?AAAA2Lyw6CMBQFv6Zdkva2Flh04SNEiIFEo4YljwpEoFraJv69Tc5mJnO+TpmfbNbe6KnHo1EvOVr7QWyPIAtrZz1Ea+OViTq9BLE54yffzClFLLuqfjKqs4idLnpAIEJd6kAARABPISEJx1ZSLiCGmFDOGcWLdHVxqJ710Ze5yB+sON/uyu2Ee1dbOP8BlLVCO5QAAAA=
 
 -----------------------------------------------------
 news title: <b>Android</b> Studio에서 <b>Android</b> SDK 경로 변경하는 방법
 description: &quot;C:\Users\XXXXX\AppData\Local\<b>Android</b>\sdk&quot; 안드로이드 앱 개발용으로 <b>Android</b> Studio를 설치했었는데, SDK 파일들이 C용량을 꽤나 잡아먹고 있는 것이죠. 그래서 이 경로를 한 번 바꿔보기로 했습니다....
+link: http://openapi.naver.com/l?AAAA3JsQ6CMBAA0K9pR0J7jZ06aITIYtQ4sJ6lUoyleFwH/l6St71fCbQ5nAfK0yAjhbeLzIuAo9DtDhNyKMQB0+ubx4qnlTNtlc9pX6hBslPmoK22tTIGlEzu0TyXMq/Xj/JNvPQ3oU/3jn3BfrSdgPMfLZnNc3QAAAA=
+
+-----------------------------------------------------
+news title: T-Mobile now rolling <b>Android</b> 6.0 Marshmallow update to...
+description: After a wait of almost a year, T-Mobile has finally rolled out the <b>Android</b> 6.0 Marshmallow update to the Galaxy Note 5. As per a report by SamMobile , the OTA update is 1,421.63 MB in...
+link: http://openapi.naver.com/l?AAAA2KSwrCMBQAT5PsIubTFhdZKCrYlXqDV/NsivlofGLr6Q3MLAbm9cGyWEiu5MlxX/BuPdGT6S1TxwoVTG4IeVwlpNojBJgXkTKhaASJmIcpoIhQ3j5CCPlbJ05WmlZ1qltLY7Tk0R56aNVpbpyWm9Ff+ojnB1O7X9WZ643p/R+gLmA9igAAAA==
+
+-----------------------------------------------------
+news title: <b>Android</b> Studio 2.1 업데이트 및 단축키 일람
+description: http://tools.<b>android</b>.com/recent/androidstudio21andemulator2513available 이번 업데이트는 기본적으로는 N... <b>Android</b> Studio Tips And Tricks http://developer.<b>android</b>.com/intl/ko/sdk/installing/studio-tips.html <b>Android</b> Studio...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KczNySYiMLvZLM4pL8okq95PxcoKipgZFaia2hiZmRuZG5gaGJibGhWq5tjqeRq7mjq3N4oJtzWkW6p6+vR05hskuaqpFTaLqqsQsAc4P5+mwAAAA=
 
 -----------------------------------------------------
 news title: <b>Android</b> assets 파일에 JSON 넣기
 description: <b>Android</b> assets 파일에 JSON 넣기 assets 파일안에 서버통신을 하기 귀찮고 빨리... import <b>android</b>.content.res.AssetManager; import <b>android</b>.os.Bundle; import <b>android</b>.support.v7.app....
-
------------------------------------------------------
-news title: Google Photos for <b>Android</b> now allows you to manually...
-description: Sadly, the feature is currently limited to <b>Android</b> users and they can hit the Play Store right away. We do expect Google to roll out the feature to iOS as well.
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L09MSiTL2SzOKS/KJKveT8XKCYqYGFWomtoYmZkbmRuYGhiYmxoVqurVeFhVN6UIpTflZuakWUWbJrjrOLiVGUs6ubgaqxCwCvUq3laAAAAA==
 
 -----------------------------------------------------
 news title: Google releases <b>Android</b> N for developers
 description: Google generally holds off till Google I/O to reveal its next version of <b>Android</b> but here it is – a “work in progress” build of the upcoming <b>Android</b> N. Google reckons releasing...
+link: http://openapi.naver.com/l?AAAC2MuQ6DMBBEv8Z0jnwgqFzkoiChoEiTzrE3NophiXEO/j4uIo3eSE+jeb4grkpPNuJgCx/hrnxKM5FbIpqcBManwTwg3gK6jcExS8F4lYvJDM4yHKILQCME0Ass9P9HJ3rHSC28IeAMccnTIileVqIWNeNlKXkxqr7X58592/TR7WW1XWOuJ7/XUBOxOxJ5+AG979tFpAAAAA==
 
 -----------------------------------------------------
-news title: [<b>Android</b>] RecyclerView 키보드에 때문에 발생한 뷰 Refresh
-description: 일단 해당 Activity 에서 키보드 때문에 1<b>android</b>:windowSoftInputMode=&quot;adjustPan&quot;cs Manifest.xml 에서... 1<b>android</b>:windowSoftInputMode=&quot;adjustNothing&quot;cs adjustNothing 이 추가 되어야지 Refresh 를 막을 수...
+news title: Google Photos for <b>Android</b> now allows you to manually...
+description: Sadly, the feature is currently limited to <b>Android</b> users and they can hit the Play Store right away. We do expect Google to roll out the feature to iOS as well.
+link: http://openapi.naver.com/l?AAAA2Kuw7CIAAAvwY2jDzaxoFBYkwXF+PQlQLSCgVEMKlfL8ktl7t3NXnnMugcVw2XbJ58KSUBegbk2ijZBD37aA/BlOY2RusNSkss8YM2Gar0aJbK1dQqLByzngxkOGLGKIYbF5165HEfT32+T4AI1X2dSWK6tf31c4Be/tUCbQCDAAAA
 
 -----------------------------------------------------
 news title: 인조인간 0호(<b>Android</b>-Zero/人造人間0号)
 description: &quot; 이름- 인조인간 0호(<b>Android</b>-Zero/人造人間0号) [본명은 진(Jin)으로 이름의 유래는 술의 진(Gin)에서... 종족-인조인간(<b>Android</b>)[인간 베이스의 타입인 동시에 지구인 출신이다.] 나이-23세 신장/체중-178cm...
+link: http://openapi.naver.com/l?AAAA2MXQuCMBiFf812Kdu7L292oYg3RkQRXZtbuszN5pL69w0OB57Dw3l/bPzp3psYnMFTtA89pbQiViFoc+6vMBa+320shrDkIc1m9BtXgiPWnq1x0Q4JseYQRgQy28eQCYBISRQtBSM4acolKFCEcs4oXjSF1onL3pX++jw5e6u2+ktWBPXe5ZrzwR+E4X5AmAAAAA==
+
+-----------------------------------------------------
+news title: [<b>Android</b>] RecyclerView 키보드에 때문에 발생한 뷰 Refresh
+description: 일단 해당 Activity 에서 키보드 때문에 1<b>android</b>:windowSoftInputMode=&quot;adjustPan&quot;cs Manifest.xml 에서... 1<b>android</b>:windowSoftInputMode=&quot;adjustNothing&quot;cs adjustNothing 이 추가 되어야지 Refresh 를 막을 수...
+link: http://openapi.naver.com/l?AAAA2LwQ6CMBAFv6YcSbttCh56MBIOSkg0Eo+m0goYoLosJvj1NnmXmcz7rB43Y2eHYXBJj/5peqI3k3sGZdxjDF0626/HtA1TFBZpWOx8x21lsrx4N6BvicmiCh0DHfM6RALgWmf5jkuVJ2SE0pBBxoVSUiSTGQM1eUOv43KSbvpVxeF64+AF1ud4/gOYoiNDlQAAAA==
 
 -----------------------------------------------------
 news title: <b>Android</b> N 개발자 프리뷰 및 도구
 description: Multi-Window <b>android</b>:resizableActivity 라는 새 매니페스트 특성이 추가되었습니다. 이 특성을 true로... <b>android</b>:supportsPictureInPicture 속성을 true로 설정해 적용할 수 있습니다. Direct reply notifications 안드로이드...
+link: http://openapi.naver.com/l?AAAC2MsQ6DIBRFv0a2EniP6MTQpjq0SbcOHbUiNIJPEQb/vjRpcnLOcJO7ZRMP3S9jpM/IXDSTdimtFZ4r6AqWyHozUzT94Mnyn/aVEn9TKDMIWZcILPqfnBbuUvAsaalqaKARUimULOgZnv5wr0uO2D6me3Z+6ywMN8x7hdcvHNm39ooAAAA=
 
 -----------------------------------------------------
 news title: How to Bypass <b>Android</b> No Signature, Verification Failed...
 description: Yesterday i received <b>Android</b> 2.2.1 (FRG83) update (signed-passion-FRG83-from-FRF91.c8847c98.zip) on my Nexus One OTA. Before applying the update, my Nexus One was running <b>Android</b> 2.2...
+link: http://openapi.naver.com/l?AAAC2MsQqDMBRFv0a3iImptkMGQUppoQ6lUMeo0Ug1LyZPWv++GQqXc+AMd92U24U0vYOpj7VTg9CINsrKiJ3DOie9BrMl7Qyjt4BJB0voLKV5UMoCNHwIAml3K70n/y9igPhpNBI3pxKNyxyjoDxnBStSynlG40Xcjgr1eH13j0v+qg7PU/Otm/teryWPsuoHburhmJwAAAA=
 
 -----------------------------------------------------
 news title: <b>Android</b> N Developer Preview available for download now
 description: of <b>Android</b> N available for download today, but that is exactly what Google has delivered.... new <b>Android</b> Beta Program later today now and you will receive the latest developer previews...
-
------------------------------------------------------
-news title: Exynos 4412 <b>Android</b> Sensor 죽이기...
-description: root@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2# find . -name sensors.cpp ./device/samsung/smdk4412/libsensors/sensors.cpp ./device/samsung/manta/libsensors/sensors.cpp root@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2...
-
------------------------------------------------------
-news title: [안드로이드(<b>Android</b>)] <b>Android</b> N Developer Preview
-description: <b>Android</b> N Developer Preview <b>Android</b> N Developer Preview | <b>Android</b> Developers developer.<b>android</b>.com 안드로이드 마시멜로우에도 뭐가 있는지 다 모르는데.. 안드로이드 다음 버전...
+link: http://openapi.naver.com/l?AAAEWNzQ6CMBCEn6bcavpDwEsPGvVq9Oit2iWgpYulUnh7l8TEZHcn2fkm8/5AXIwNLmLnijZCY9qUBqZ3TJ1ofg5JD5sH9vRSQlYkQtMJkMc/xQN3MIHHASIfIkwdZG4n23l798AbjNxhDh4toZgpWCQjy0rVqhayLLUserMwtR8rNy83cVWPtXDd5pz06zlv68uR6cMXLfEuN7YAAAA=
 
 -----------------------------------------------------
 news title: How to transfer WhatsApp messages from <b>Android</b> to iPhone
 description: If you recently switched from an <b>Android</b>-based phone to an iPhone, you may want to transfer... Install the latest Windows drivers on your <b>Android</b> phone. They typically get installed...
+link: http://openapi.naver.com/l?AAAC2MPQ/CIBQAf027PWOB2InBj6pdjCZdHGn6WogWEF5L/PcymNxyw91nwfCVyg7BmaHUAUepiXzB9wU7ZyigHfq3mzYWKbt2CcgBBWXjiAGSVhSV9zBjjGrCCD1SQrTwf4Lx2lnMaUmyEjtWs3pbCcFZOcvm2Kzd5bGOfXUzneNG3K9t+3ouh6bgpx/LOKtWnAAAAA==
 
 -----------------------------------------------------
-news title: unity에서 <b>android</b> 빌드에러 해결
-description: 유니티에서 애드몹을 붙이고 unity ads도 붙일려고 asset store에서 unity ads를 import하고 나서 빌드를 하니 에러가 발생한다. Error building Player: CommandInvokationFailure: Unable to convert classes into dex...
+news title: [안드로이드(<b>Android</b>)] <b>Android</b> N Developer Preview
+description: <b>Android</b> N Developer Preview <b>Android</b> N Developer Preview | <b>Android</b> Developers developer.<b>android</b>.com 안드로이드 마시멜로우에도 뭐가 있는지 다 모르는데.. 안드로이드 다음 버전...
+link: http://openapi.naver.com/l?AAAA2Lyw6CMBREv6YsSXtbWll00cSw8EGicaHLChVQoVhbiX69N5lMck5mXsmFr7ZTG/zQZn1wN93HOBNuCFSY69N3+WQ/LuSNH1GwQpXvJRFeHV07BNdEwtc73xGQOK09EgCVBQdZYmVRMyFBgaJMCORRG5Xcxa7oL27u1O8fp4XOvD5vozng+Q/idArrkQAAAA==
 
 -----------------------------------------------------
 news title: iOS and <b>Android</b> Capture Combined 98.4% Share of...
 description: iOS and <b>Android</b> Capture Combined 98.4% Share of Smartphone Market Thursday February 18... and <b>Android</b>. The two mobile operating systems combined for 98.4 percent worldwide market share...
+link: http://openapi.naver.com/l?AAAC2NwQ6CMBBEvwZuJbRFwAMHwZCoB73qxVRYBLVUtm0Kf29JTCYzydvszGQBl0KMLaqhDXuEruiN+QZ8F7DayzkXSdGglQp11CjpGYtp6iNm3mjubVCa/CuIFPgGQ3QvEMiUELohT4FmBFwLeW2NvGtlsYGA7zuA9rMELF2phHaw0lMHj/WgQ1PQJGUZy2KaJJyFsvDzJTdZtb3cquNhdq+5SvsmP52vpY396w8RaGDBzwAAAA==
+
+-----------------------------------------------------
+news title: Exynos 4412 <b>Android</b> Sensor 죽이기...
+description: root@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2# find . -name sensors.cpp ./device/samsung/smdk4412/libsensors/sensors.cpp ./device/samsung/manta/libsensors/sensors.cpp root@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2...
+link: http://openapi.naver.com/l?AAAA2LvQ7CIBhFnwbGpnyQIgNDE4M/UQcdOmOhUCOlIprg00tyl3Ny7utjU5F6MSnOBvtkJ+lzXhHtEai6+zO6ZtFfm5oxhirMe/TaCkTV1Zo52TEjuj1Fh6Cr6SVWAmg7LjYgCHCcJWEdcOAtYYwCDvIwrHvXBp9/qj/uSgkPHdZ4Ow+J1fMfVCEByZEAAAA=
 
 -----------------------------------------------------
 news title: <b>Android</b> Studio에서 OpenCV 사용하기
 description: 따라 <b>Android</b>나 iOS 에서도 사용하려는 사람들이 점점 더 많아지고 있습니다. eClipse에서 OpenCV를 설치하는 방법은 널리 알려져 있으므로 이 포스트에서는 OpenCV를 <b>Android</b> Studio에서...
+link: http://openapi.naver.com/l?AAAA2LQQ+CIBiGfw0cnX6A4IGDrWxt1abrUjcVEktBkdr697G9l+fZ864f7X+ytcq7UWHj9VOaEBZESgRVXDe5IbHtV/ukd3MUm5piLRgiVaPV6HUfENmf3YAgj+3VRQJIWUELYAwEDjKjOXDgaUYpATxLK6B73C6WmTsnCHZlfdiWVzPX7/V4ivc/pkhh/JQAAAA=
 
 -----------------------------------------------------
-news title: [<b>Android</b>] AppCompat 테마에서 투명화 처리(투명 Activity)
-description: 123456&lt;style name=&quot;Theme.AppCompat.Translucent&quot;&gt; &lt;item name=&quot;<b>android</b>:windowBackground&quot;&gt;@<b>android</b>:color/transparent&lt;/item&gt; &lt;item name=&quot;<b>android</b>:colorBackgroundCacheHint&quot;&gt;@null&lt;/item&gt; &lt;item name=&quot;<b>android</b>...
-
------------------------------------------------------
-news title: Exynos 4412 <b>android</b> 디스크 관리
-description: log를 생성하는 프로그램을 찾자 oot@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2# grep -Hnri... oot@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2# vi hardware/bmc050/<b>Android</b>.mk ifneq ($(TARGET_SIMULATOR)...
+news title: unity에서 <b>android</b> 빌드에러 해결
+description: 유니티에서 애드몹을 붙이고 unity ads도 붙일려고 asset store에서 unity ads를 import하고 나서 빌드를 하니 에러가 발생한다. Error building Player: CommandInvokationFailure: Unable to convert classes into dex...
+link: http://openapi.naver.com/l?AAAA2Lyw6CMBBFv6YsCcyUQRZdkBhWauJroTtsK8UAo7Vi5Ottcjfn5NzXx/qfaifjuTeJ8/auXAhPgbWAJu42cJdO7Wx9qnmMQjv9eH/ZtAKbgzW9tzoIXG+4E0Ax3nEkgIwIsVhVVCRB5ZKghDLLpURIRjUdB9ssnhY611vTd/OJ6ytWg9tf4vkPI+A5+5MAAAA=
 
 -----------------------------------------------------
 news title: DBI on <b>Android</b> - ADBI(<b>Android</b> Dynamic Binary...
 description: DBI on <b>Android</b> - ADBI(<b>Android</b> Dynamic Binary Instrumentation) DBI(Dynamic Binary Instrumentation) 동적으로 바이너리에 코드를 삽입 하여 실행하는 것을 말한다. 이를 통해 소스코드를 수정하지 않고도 API Trace...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KMytK83My8TL2SzOKS/KJKveT8XKCwuaVaia2hiZmRuZG5gaGJibGRWq5tnp+qkVN5pUleZmRGpUuliU9lbmCYX5aJV5gPUMJV1dgFAO31xs5uAAAA
+
+-----------------------------------------------------
+news title: [<b>Android</b>] AppCompat 테마에서 투명화 처리(투명 Activity)
+description: 123456&lt;style name=&quot;Theme.AppCompat.Translucent&quot;&gt; &lt;item name=&quot;<b>android</b>:windowBackground&quot;&gt;@<b>android</b>:color/transparent&lt;/item&gt; &lt;item name=&quot;<b>android</b>:colorBackgroundCacheHint&quot;&gt;@null&lt;/item&gt; &lt;item name=&quot;<b>android</b>...
+link: http://openapi.naver.com/l?AAABWLyw6CMBBFv6YsCUxrGxddmBgwRoyRjbAxlZZHIoyOxYhfb03u5pyc+5wdLdpMlnCwUU+u1b33D8Y3DLKw2x27eDJvR3GDYxCG/PAy05WWmfHs7OxArvGMbw/YMZAhP2IggERKrtawUhB5nQoJClSSCsEhGnVVqC/m9Wdv5KX2J5vnWBW7si7hf/4BXbpQapUAAAA=
 
 -----------------------------------------------------
 news title: [<b>Android</b> View] 달력만들기
 description: 네 보기 좋다하여 꺾지 말아라 [<b>Android</b> View] 달력만들기 본문 프로그래밍/<b>Android</b> View [<b>Android</b> View] 달력만들기 선제 2016.01.12 15:11 CalendarView 처음에 달력을 만들때는 아주 간단하게...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KMxJKSTL2SzOKS/KJKveT8XKCYoYGRWomtoYmZkbmRuYGhiYmxkVqubXp6pluheW5EqlOpsaOFmUF5lEuFu29IRmBEpKqxCwANQ0TdaAAAAA==
 
 -----------------------------------------------------
 news title: [<b>Android</b>] Eclipse / 안드로이드(<b>android</b>) SDK설치 및...
 description: <b>android</b> SDK 다운로드 받기 (운영체제에 맞게 다운로드 받아주세요!) * 다운로드는 한글경로가 포함되지 않는 C:\ 드라이버 같은 곳에 넣어주세요! http://developer.<b>android</b>.com/sdk/index.html#Other 2....
+link: http://openapi.naver.com/l?AAAA2Lyw7CIBQFvwaWTbncFlmwqDGNUdOFj6hLLJQ2faCEmvj3kpzNTOZ8Vht+Si8m+MHQPthO9TG+Ca8I1Gmvybts0V8bstbPScTRmKlDyCXh9dmaIdg2Er47eUegTHXjEwHkxYZJIYVgNCqGJQgQOUPkQGflniOu28sR+jsap+VQXMsGH/vboUrnP6iSz9KUAAAA
+
+-----------------------------------------------------
+news title: Exynos 4412 <b>android</b> 디스크 관리
+description: log를 생성하는 프로그램을 찾자 oot@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2# grep -Hnri... oot@cds-VirtualBox:/JellyBean/<b>android</b>-4.2.2# vi hardware/bmc050/<b>Android</b>.mk ifneq ($(TARGET_SIMULATOR)...
+link: http://openapi.naver.com/l?AAAA2Myw6CMBREv6YsSbl9QBdd+AguJIpGE7bYVkqEVmsl+vc2mc2czJnXx4Sf7J0OftSZDeYubYxPRFYI6pTb5Ifc9YsJufJzAvqtbG8EIvXZ6DEYFRHZNn5AwNP04FMDwLzCgrECl1mUBeVQQokLSglks1wu3ZrtWv69Oro/LemztZupEVVHj4+k/wG3x7GGkwAAAA==
 
 -----------------------------------------------------
 news title: 안드로이드 개발 #1 - <b>Android</b> Studio 설치 및 새프로젝트...
 description: Eclipse에 <b>Android</b> Development Tools 플러그인을 설치하고, XCode 의 Command Line Build 를 함께 쓰도록 하여 Hybrid App 개발툴킷을 만들었지만 작년 중반 이후에 Google에서 <b>Android</b> Studio 만을...
+link: http://openapi.naver.com/l?AAAA3IwQ5EMBAA0K9pj8K0OPVAxGXJZtcXiKqSbYcxDv5+Je/0jmum24zREq5Wepqd8cy7UJWA9rEg2g0xJryejHQnE4anAXLJJtMFlFCmmdYKZDBhKXrKf74ZYn9137pu/cfx+XJvLVTzB3yD4RhrAAAA
 
 -----------------------------------------------------
 news title: [<b>Android</b>] SystemClock : elapsedRealtimeNanos
 description: the <b>ANDROID</b>_ALARM_GET_TIME ioctl. To ensure consistent behavior on existing devices, make clock_gettime() a fallback for when the alarm driver isn't available. Change-Id...
+link: http://openapi.naver.com/l?AAAA2LQQvCIBiGf40ex/w0tw4eFkM6RFBE5HFt35ywaZkN1q9PeE/P87zvL8ZNdX6IwQ10ijiqKaUX4Q0Bnfecgy18t2Is+rBk8Okc/gLh+oqDi9gnwttTsARkLs9ZtAClrPdM1iUDmhQTEiqoSiYEB7oobO43f9BmXQM3D70x703a8dkeL/n8B+CLrHCQAAAA
 
 -----------------------------------------------------
 news title: 737 NGX CDU DEVICE for <b>android</b> User Guide
 description: However, if you press 'NO' at that time, or you just cannot connect with <b>android</b> device... 4 = When Server program received <b>android</b> client data Log Clear Button -&gt; Clear log info that...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KM/IJMvZLM4pL8okq95PxcoJChkZlaia2hiZmRuZG5gaGJibGRWq5tsptfVX6Ud16Af05RVKVnRIWxQXBxhnORX1SgqrELAJ8LO2xnAAAA
 
 -----------------------------------------------------
 news title: [<b>Android</b>] Google Sign-In API, 구글 로그인 API (3)
 description: [<b>Android</b>] Google Sign-In API, 구글 로그인 API (1) http://kcskiller.blog.me/220628568490 [<b>Android</b>] Google Sign-In API, 구글 로그인 API (1) 오랜만에 안드로이드를 다시 만져봅니다. 요즘 SNS OAuth 인증 없는...
+link: http://openapi.naver.com/l?AAAA2Myw6CMBREv6YsCdzWFhZdaEyNCZpojHtsyyNQiqUS9Ou9ycxiTmbm/bHhK+vJBN+bpAu2kV2MM6F7Agr1Gn2bTvVqQ6q9QzDoZejH0QZC1d2aPlgdCT1WviXAsXz1mAAyDoXY8bIokyhzxkGAyHLGKE2cXF214dVlOx3QRj3m5UnPv8hus9M4/wONutvilQAAAA==
 
 -----------------------------------------------------
 news title: Linn Kazoo <b>android</b> 앱
 description: Linn에서 network music player를 제어할 수 있는 <b>android</b> 용 kazoo 앱을 2월 11일에 릴리즈했습니다. 얼마... 이유가 <b>android</b> 앱 지원 때문이었을 정도였는데(2년 전에는 naim은 andoid 용 앱이 없었음) 그럼에도...
+link: http://openapi.naver.com/l?AAABWLsQqDMBRFvyaOoi/h2SVDoWiGaotbR2tSDWiejVHQr28KdzmHc7+b8YfsnPZkdTJ685FjCAvjVwZl3HuiIXXdbnza0xyF3e3eTdoyXrZGW2/6wPjtTgMDjG1DkQAyBETkUIgkyFwgFFBkuRCcJ7Pst/Z5ro8F1BlIvY6aVlcL1Vyq//kHERTbDpIAAAA=
 
 -----------------------------------------------------
 news title: <b>Android</b> 버전, Apple Music 업데이트
 description: <b>Android</b> 버전, Apple Music 업데이트 Apple에서 <b>Android</b> 버전의 Apple Music 0.9.8을 업데이트 했습니다. 이 프로그램은 뮤직 비디오와 가족 구성원 기능이 추가되었습니다....
-
------------------------------------------------------
-news title: [<b>Android</b>] 안드로이드 애니메이션(Animation)...
-description: 이미지뷰를 하나 만들어줍니다.12345 &lt;ImageView <b>android</b>:id=&quot;@+id/anim_img&quot; <b>android</b>:layout_width=&quot;50dp&quot; <b>android</b>:layout_height=&quot;50dp&quot; <b>android</b>:background=&quot;@drawable/anim&quot;/&gt;cs 2. res / drawable...
-
------------------------------------------------------
-news title: 구글 넥서스 5 팩토리 이미지 (<b>Android</b> 4.4.4 ~ 6.0.1)
-description: ■ 4.4.4 (KTU84P, 킷캣): https://dl.google.com/dl/<b>android</b>/aosp/hammerhead-ktu84p-factory-35ea0277.tgz ■ 5.0.1 (LRX22C, 롤리팝): https://dl.google.com/dl/<b>android</b>/aosp/hammerhead-lrx22c-factory-0f9eda1b.tgz ■ 5....
+link: http://openapi.naver.com/l?AAABWMyw7CIBREvwaWTbk8GhcsfKSa+Ehkp7sK2Fal1Ctt4t+LyWzmZM68J49f3QwOY+9oh/6uu5RGwpcE6pzbK7bF0MweCxtDBs8wtYTXxrsevU2Ebw6xJaDy7hRzAyjVQkkJQkmaNBMKKqhKJgTnNOhgtnYH/6PzMTjzuYxuzR7X2axwb7P+A+QHEaiQAAAA
 
 -----------------------------------------------------
 news title: <b>Android</b> 컴파일 관련
 description: 빌드절차 - 사용도구들 : appt, aidl, java compiler, dex, apkbuilder, Jarsigner, zipalign - aapt(<b>Android</b> Asset Packaging Tool) : resource 파일들 처리해서 R.java를 생성 - aidl : .aidl...
+link: http://openapi.naver.com/l?AAAA2LsQ6CMBRFv6aMhL5X2zB0gBAmNYGJuGGpFKVUa6n69za5yzk597Vr/5PjNnm3TJnx+iZNCE+CFYE27bq6Od/GqH2unE3iYWDfCLa9nhavVSDYHN1MgKfw7BIBFBxFCSVlhyxIyjgIEAVlDDGzsh5iFzsC9YVa1tzVu/oOvhcrx8+pS/c/DS1jF5EAAAA=
 
 -----------------------------------------------------
-news title: Fresh Meat: 10 new <b>Android</b> apps worth checking out
-description: Browse our new <b>Android</b> app picks below and let us know which ones you enjoy. Xcerpt for Twitter Description: Do you want to make the articles you share on Twitter more eye-catching...
+news title: 구글 넥서스 5 팩토리 이미지 (<b>Android</b> 4.4.4 ~ 6.0.1)
+description: ■ 4.4.4 (KTU84P, 킷캣): https://dl.google.com/dl/<b>android</b>/aosp/hammerhead-ktu84p-factory-35ea0277.tgz ■ 5.0.1 (LRX22C, 롤리팝): https://dl.google.com/dl/<b>android</b>/aosp/hammerhead-lrx22c-factory-0f9eda1b.tgz ■ 5....
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6KM8pLMgmK9kszikvyiSr3k/FygoLmppVqJraGJmZG5kbmBoYmJsbFarm2aYyRIU0C5e6SfpZmjj3FWsoFjQEigS6B7eqiqsQsAhbSm32sAAAA=
 
 -----------------------------------------------------
 news title: <b>android</b> studio google map v2 (1)
 description: <b>android</b> studio google map v2 (1) 먼저 API key 를 발급받아야합니다. 여기까지 완성된분은 <b>android</b> studio google map v2 (2) 부분을 참고~ http://ggari.tistory.com/452 1. 아래 싸이트로...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L09MSiTL2SzOKS/KJKveT8XKCYiamhWomtoYmZkbmRuYGhiYmxsVqubVSyqpGTuUWuRUqJZXlliDtQYYpfYmCJj2elZ36eq6qxCwCI58NObAAAAA==
 
 -----------------------------------------------------
-news title: [<b>Android</b>] <b>Android</b> volley master library log disable
-description: 티스토리 뷰 나의 플랫폼/안드로이드 [<b>Android</b>] <b>Android</b> volley master library log disable GsBOB 2016.04.14 18:30 <b>Android</b> Volley Master Library 사용시, 안정적이고 참 좋은...
+news title: [<b>Android</b>] 안드로이드 애니메이션(Animation)...
+description: 이미지뷰를 하나 만들어줍니다.12345 &lt;ImageView <b>android</b>:id=&quot;@+id/anim_img&quot; <b>android</b>:layout_width=&quot;50dp&quot; <b>android</b>:layout_height=&quot;50dp&quot; <b>android</b>:background=&quot;@drawable/anim&quot;/&gt;cs 2. res / drawable...
+link: http://openapi.naver.com/l?AAAA2LvQ6CMBRGn6YdSbm3tjB0ICHEgTCoiXOh5UeB4rWa+PY2+ZZzcr7Xx9PP2N1RWByfyY9mjvFgWDFo0vo1TNluv56yIWxJxKdz6yhBlAybi3cL+SEyrNswMVCp7kIiAKGFUChQ5TyaXCrQoEUuJSLfjAyne/suq94fVFRkb9fucbaq3Yshnf+HiyJglAAAAA==
 
 -----------------------------------------------------
-news title: [<b>Android</b>] sdk23 permission 자세한 정보
-description: https://developer.<b>android</b>.com/intl/ko/training/permissions/requesting.html#perm-check sdk 23으로 올라가면서 권한에 대해서 사용자 동의를 구하는 부분이 생겼다. 하드웨터(GPS...
+news title: Fresh Meat: 10 new <b>Android</b> apps worth checking out
+description: Browse our new <b>Android</b> app picks below and let us know which ones you enjoy. Xcerpt for Twitter Description: Do you want to make the articles you share on Twitter more eye-catching...
+link: http://openapi.naver.com/l?AAAC2LSwqDMBRFVxNnr+SHjjKwlEJBOmoXYGM0QZPYGLF19X0F4cLh/t6rSV/Vhi5F1xU2mV7ZnGciasKvqKNBeHPS0WPEKSsRVPzreZ6cbrOLYUHbJ7NY8KbNwCgEs8HxBxwusMWULWhr9OjCAHHFmeT4K7JisuQVryiTUojCq/2mfT3S8qkp4ec+7M29meRI0+PzGoi4/ACNAwT4uQAAAA==
 
 -----------------------------------------------------
 news title: Fresh Meat: 10 new <b>Android</b> apps worth checking out
 description: Browse our new <b>Android</b> app picks below and let us know which ones you enjoy. Skype for Business Description: Skype for Business, formerly Lync 2013, for <b>Android</b> extends the power of...
+link: http://openapi.naver.com/l?AAAC2LvQ6CMBSFn6Zs19AWJQ4dAOOkk9G9KYU22hbLReLbe01ITvLl/L0Xm79Kxz4n3xcu20E5xInJhokzaWsIwe5MChSJku8JXPzraXp5o9GnOJMdsp0dBKsReAnRrrD9gYYzrCmjA+Osefo4QlpoJjn9ClS8Ooha1CWvKimLoMLcSuy6T8tEe9HX/BDNKG8aV3PUdyZPPw24Pvm5AAAA
 
 -----------------------------------------------------
-news title: Deprecation of BIND_LISTENER with <b>Android</b> Wear APIs
-description: Posted by Wayne Piekarski , Developer Advocate, <b>Android</b> Wear If you’re an <b>Android</b> Wear developer, we wanted to let you know of a change you might need to make to your app to improve...
-
------------------------------------------------------
-news title: [<b>Android</b>] can not run program svn
-description: 티스토리 뷰 나의 플랫폼/안드로이드 [<b>Android</b>] can not run program svn GsBOB 2015.... Apply -&gt; Ok Restart your <b>android</b> studio now. Happy Coding! http://stackoverflow.com/questions...
+news title: [<b>Android</b>] sdk23 permission 자세한 정보
+description: https://developer.<b>android</b>.com/intl/ko/training/permissions/requesting.html#perm-check sdk 23으로 올라가면서 권한에 대해서 사용자 동의를 구하는 부분이 생겼다. 하드웨터(GPS...
+link: http://openapi.naver.com/l?AAAA2Lyw6CMBQFv6YsSbmtIIsuNMhKLT6D7gpcgQQolmLSv7fJbM7kzHdF44SaGqP7JugMfkRn7UzYjkDuqQbdhpP6oQlrPXqBDis1DMtCWH7FpjdYW8Kyo24JxP581n4B0IRGKWwh3QRWRDyGBLzhnLFgFCUtCOylnC+PF0f5ft7Ke3Zama1dcfD5H7RyPVSVAAAA
 
 -----------------------------------------------------
 news title: <b>Android</b> Plot Libraries
 description: <b>Android</b> Plot Libraries 정식 API로는 그래프를 그려주는 기능은 없다. 기존의 open... com/jjoe64/GraphView http://www.<b>android</b>-graphview.org/ Google Charts Hello Pizza Chart https://github....
-
------------------------------------------------------
-news title: Background Buffer in YouTube's <b>Android</b> App
-description: I paused a video in YouTube's app for <b>Android</b> and got this message: &quot;paused videos keep... 4 billion <b>Android</b> users in the world&quot;, &quot;free WiFi at 100 railway stations in India by December...
-
------------------------------------------------------
-news title: <b>Android</b> Head Unit 세부 기능
-description: <b>Android</b> Head Unit (안드로이드 올인원) 설치 DIY 는 아래 포스팅을 참고하시고 http://blog.naver.com/kooryjk/220614570266 이번에 설치한 <b>Android</b> Head Unit 의 세부 기능들을 사진으로 쭈욱~ 한번 훑어보려함. 메인 화면....
+link: http://openapi.naver.com/l?AAACWLQQ6CMBBFT9PuINJWcdMFakyILpR4AZCRNpGODENCPb1NTH7yFu/9aQGKtg09oe+lI3hZx/wRuhLqnDYg9owDQcuQs58ZKeZPHJOCwBQTq/85u72Rs6vvqCUPs2RbmJ0qVbkpjNFajvaxnyD1rgyH1dxXc2waVXfby/pd6kHo0w/2mD9hjAAAAA==
 
 -----------------------------------------------------
 news title: <b>Android</b> Studio 2.0 Preview: <b>Android</b> Emulator
 description: Posted by, Jamal Eason , Product Manager, <b>Android</b> An early preview of the new <b>Android</b> Emulator is now available to try out. As a part of <b>Android</b> Studio 2.0, the latest version of the...
+link: http://openapi.naver.com/l?AAAE2MywrCMBREvybdpSQ3rV1l4QMRURCkQrurJppCY2J626Jfb4QuhIGBOYd5DTq8ZfNUwbUqMUHfpUH0RCwJbGNmQpUedee8Dn167dyj9w7Tm7PRAMbzWBz+7B4H1ToKjPqgx1ZPdCapQdslKHm2gAIKxrNMiMTK5kxgdcBqdzlW9bQ/WfZZ8zKvh98ej0siNl9/OybVqwAAAA==
+
+-----------------------------------------------------
+news title: <b>Android</b> Head Unit 세부 기능
+description: <b>Android</b> Head Unit (안드로이드 올인원) 설치 DIY 는 아래 포스팅을 참고하시고 http://blog.naver.com/kooryjk/220614570266 이번에 설치한 <b>Android</b> Head Unit 의 세부 기능들을 사진으로 쭈욱~ 한번 훑어보려함. 메인 화면....
+link: http://openapi.naver.com/l?AAABWLQQ6CMBRET1OWBP5vQBddGE0x0dQETgC0FkT6sakSPL01mcW8yZvX2/hNtE57GnUyeHMXQwgLwwMDGdM9yaau/Rif9jTHYSLy22NiKGujR2/6wPB0JcugiKqiSABZkfMCdnuOSRD/WkKZ5ZwjJrM41rfzt1pRdqQcv6gOFmjqquF2jecfSS3ii5EAAAA=
+
+-----------------------------------------------------
+news title: [<b>Android</b>] <b>Android</b> volley master library log disable
+description: 티스토리 뷰 나의 플랫폼/안드로이드 [<b>Android</b>] <b>Android</b> volley master library log disable GsBOB 2016.04.14 18:30 <b>Android</b> Volley Master Library 사용시, 안정적이고 참 좋은...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L0/PT8ouSMdL2SzOKS/KJKveT8XKCwiYG5WomtoYmZkbmRuYGhiYmxiVqurV9aVVCiX65HZp5zaopHYZapS2J2eZZ3uEukiaqxCwCyUvMJawAAAA==
+
+-----------------------------------------------------
+news title: Deprecation of BIND_LISTENER with <b>Android</b> Wear APIs
+description: Posted by Wayne Piekarski , Developer Advocate, <b>Android</b> Wear If you’re an <b>Android</b> Wear developer, we wanted to let you know of a change you might need to make to your app to improve...
+link: http://openapi.naver.com/l?AAAC1MywqDMBD8Gr0pGoP2koN9HS20pZ7VrBqI2TRuK/5991CYB8MM8/5A2FXndECj4znAqGYiHxV1JK6Mf5No+IJFD2FNe4vT6pHSARdeiCwv2TLJosEHGDoy6BIck944bc1K4CCkMy02JpXLUlSiynIpCxkv6lY3W2sr4Kvjfmgv5bQ9t1dz4nhnPqaoOP8A1SkNX6UAAAA=
+
+-----------------------------------------------------
+news title: Background Buffer in YouTube's <b>Android</b> App
+description: I paused a video in YouTube's app for <b>Android</b> and got this message: &quot;paused videos keep... 4 billion <b>Android</b> users in the world&quot;, &quot;free WiFi at 100 railway stations in India by December...
+link: http://openapi.naver.com/l?AAAC2MvQqDMBRGn0a3iMaoUwahdCsdaqEdjeZHarya3GDz9s1Q+DhnOPAdQbrIx212sMy5cVJxg7hndZ/Ra5oG0Kv00aO0hVhB+x2wmMCmRsuqTSpZghinj3YQtpmIoJR0ZNlIhIBBSE/+/4VBu+bIK9bSjnZlxVjNcssfg9yxGdR53GLE5rXQZ39e7tR831l9+QFD2rsLowAAAA==
 
 -----------------------------------------------------
 news title: <b>Android</b> Studio Gradle 사용하기
 description: ■ <b>Android</b> Studio Gradle 사용하기 Gradle 은 두부분으로 나뉘어 있다. App, Project 1.... [Gradle 사이트] jCenter https://bintray.com/bintray/jcenter [출처] <b>Android</b> Studio Gradle 사용하기...
-
------------------------------------------------------
-news title: Top 5 most popular <b>Android</b> apps from last week: Miitomo...
-description: Every week we cover new <b>Android</b> apps with Fresh Meat on Wednesday, followed by <b>Android</b> Gaming on Thursday and Top 10 App Updates on Friday. When Monday rolls around, we look back to see...
-
------------------------------------------------------
-news title: <b>Android</b>, IOS Webview 개발 팁
-description: <b>Android</b>의 경우는 form 태그 유무와 상관없이 기대한 동작을 수행하였지만 IOS의 경우 form 태그로... <b>Android</b>, IOS 동일하며 SPA 작업시 submit 이벤트를 취소해주는 코드가 필요하다. 서비스의 구동...
+link: http://openapi.naver.com/l?AAAA2LsQ7CIBRFvwbGBh5IuzCgTSe0xqF7BSyYFpSgsX8vyV3Oybnvj8u7nKPNKVjss3tIX8oLMYVgqLuvaWni/HW5MWmrAvyeQkRsuDkbsjMFsV6nBYGo5SVVAiBCQAeMEIqLpFxACy2hnDOONzmpa6+DygiO8+HkdfecRjPaH2/Leq73P9CTfoWSAAAA
 
 -----------------------------------------------------
 news title: 페이스북 Facebook, <b>Android</b>에서도 라이브 영상 전송 기능을...
 description: LiveVideo이 <b>Android</b> OS 단말에서도 이용할 수있게된다.지난해 말 시작한 iOS 용 평가판은 올해 1 월에... 미 Facebook의 공식 블로그에 따르면, <b>Android</b> OS 용 Live Video는 다른 나라에서도 대응할 수 있도록...
+link: http://openapi.naver.com/l?AAAA2LsQqDMBRFvyaOYl5SrUMGbQgIRVqH7qmJ0aK+NMSCf9/AXc7h3O9hwyn0bgIuJpuDncQcoyesIaDS3iu6fNc/G/IRtyTcjO7YdEEJU4M1S7BjJEze0REoU9xjIoCi5FDTC60hi4LyEiqoCso549kmfKvOrlnx0Q/q5l8EWik/7klbB9013f9VS6VdlQAAAA==
 
 -----------------------------------------------------
-news title: <b>Android</b>에서 접속하기 - PPTP 방식
-description: <b>Android</b>에서 접속하기 - PPTP 방식 (닫기)PPTP 방식을 이용한 일반적인 접속 방법 설명입니다.PPTP... (OpenVPN 방식 접속 방법 보러가기)접속 설정안드로이드(<b>Android</b>) 기기에는 PPTP 접속 기능이 자체 내장되어...
+news title: Top 5 most popular <b>Android</b> apps from last week: Miitomo...
+description: Every week we cover new <b>Android</b> apps with Fresh Meat on Wednesday, followed by <b>Android</b> Gaming on Thursday and Top 10 App Updates on Friday. When Monday rolls around, we look back to see...
+link: http://openapi.naver.com/l?AAAC2MsQrCMBiEn6bdfmmTtJ0yKNpB3FQEt9imTWiSP6YpRZ/eFISD4+477r3I8OHC9QF1n6sgB65i9BndZ6RN+pNkVu46tKkiRVknK+iGvTe6E1Gjm1OM6KECi3MEj34xIsD/ANJyhiGgBSMSXqWcwGod0SJ0SrhRGhy3jzzyktWkIU1RMkZZbnn1cNPoD2sYruL0uj37Fv3ZXr5K3zN6/AHyY+NSwwAAAA==
 
 -----------------------------------------------------
-news title: Ultimate <b>Android</b> Rooting, Fastboot &amp; Custom ROMs Guide
-description: <b>Android</b> and iOS are the most popular mobile operating systems on the market. Both offer a... Apps <b>Android</b> Launchers and lock screen widgets are great tools to customize your <b>Android</b>...
-
------------------------------------------------------
-news title: acid <b>android</b> live 2016 #2
-description: 칼퇴해야게ㅛ네 ㅋㅋㅋㅋ 암튼 또한번의 희망과 라르크는 끝났구나 하는 절망ㅋㅋㅋㅋㅋㅋ 그래 뭐라도 해라 ^^ 선행추첨은 낼부터~ acid <b>android</b> live 2016 #2 2016.6.23 (thu)...
-
------------------------------------------------------
-news title: Fresh Meat: 10 new <b>Android</b> apps worth checking out
-description: Browse our new <b>Android</b> app picks below and let us know which ones you enjoy. BandLab... (Playboard) | (Play Store) Phone Description : Update the Phone app for your <b>Android</b> Marshmallow...
+news title: Bing iPhone and <b>Android</b> apps get major updates, new...
+description: The Bing App for the iPhone is now available for <b>Android</b> phones. This new app brings... The new <b>Android</b> app gives you the ability to get snapshots of information, available on-tap and...
+link: http://openapi.naver.com/l?AAAC2MywqDMBBFv0Z3IxqD0kUWbaWL7sXSXdRoFPNoHi326ztCYZi5XM6cVxRuZ1yPzixjKp2YmAzB+qQ8J+SG029m9lm/6DkbjMLCC+4GiYHkRYUnJ8eiB4oQLFYaLQCN8LcCt9bDLAIovhoH0Y48CA9afEAhu4Pn7+M1GLN59KSBFbQiNanzgtKSpopFtybkUjaxn1qxqPup68Jjun6xbNSzTcrmBx3gL5/JAAAA
 
 -----------------------------------------------------
 news title: <b>Android</b> Studio 설치방법
 description: <b>Android</b> Studio 설치 안드로이드가 이클립스 지원을 올해말까지만 지원하기로 발표한지가 1년이... 구글에서 제공하는 인텔리J기반의 멋진 IDE <b>Android</b> Studio가 있는데 말이죠. 제가 앞으로 하게 되는...
+link: http://openapi.naver.com/l?AAAA3IsQ6CMBAA0K9pRyLXC9ihA4Q4uzqiBVtNe/U4TOrXS/Km99kXrm7Onil6HXhZXRApygwKLoc8502Y8rORuAlxbR6UjofurMW12EEP/alFNKiTK18F43V91fE9oLG3cPdhTyVa+/OkzPQHRsHSjm4AAAA=
 
 -----------------------------------------------------
-news title: WSBK Live Experience 어플 무료 사용가능 [IOS, <b>Android</b>]
-description: WSBK의 공식 스폰서인 Tissot가 지원을 확정하면서 IOS, <b>Android</b>를 사용하는 분들께서는 무료로... 클릭해서 무료 다운 받으시기 바랍니다. 고맙습니다. 티쏘...^^ iOS ← 클릭 <b>Android</b> ← 클릭
+news title: Ultimate <b>Android</b> Rooting, Fastboot &amp; Custom ROMs Guide
+description: <b>Android</b> and iOS are the most popular mobile operating systems on the market. Both offer a... Apps <b>Android</b> Launchers and lock screen widgets are great tools to customize your <b>Android</b>...
+link: http://openapi.naver.com/l?AAAC2LsQ7CIBRFvwY2jKVoJwYT2ziaLurYFgSK8JA+Yvx7GUzucE5y7rvo/JVTVBmcojbrp7SIibQnwoc6zDqq+QVmFzVWN8UpzRDY/8IyALpo2FI2hFA1bGxKaastRdmII+94t2+EaAUNch48B2PGR1xvtTj4Pl6WCr4fr3f7Ie35B1rKQDyRAAAA
+
+-----------------------------------------------------
+news title: [<b>Android</b>] can not run program svn
+description: 티스토리 뷰 나의 플랫폼/안드로이드 [<b>Android</b>] can not run program svn GsBOB 2015.... Apply -&gt; Ok Restart your <b>android</b> studio now. Happy Coding! http://stackoverflow.com/questions...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6L0/PT8ouSMdL2SzOKS/KJKveT8XKCwsamhWomtoYmZkbmRuYGhiYmxiVqubZqxdwZQ0rDUq9jC2T052Dks0KM0LNQvoNjH0VPV2AUAm9+n3G0AAAA=
+
+-----------------------------------------------------
+news title: Fresh Meat: 10 new <b>Android</b> apps worth checking out
+description: Browse our new <b>Android</b> app picks below and let us know which ones you enjoy. BandLab... (Playboard) | (Play Store) Phone Description : Update the Phone app for your <b>Android</b> Marshmallow...
+link: http://openapi.naver.com/l?AAAC2LWwuCMBiGf828W+xk1sUuDAky6jq6kzmd5A5tE/Hf9wXCCw/v6bvouMnO9dFPfWGiHqTJOSBeI3YF7Q3A6oPyFiJGaAmg7F+HME+qy5N3CewQdTLY6i5jSrDTK97/GIYJrz5mg5XR6jO5EfsFZpzAr8iSiiOrWEWoEFwUVsby+XqX7aMNtztilybx4TTOm4h1fSaINz+bIB0auQAAAA==
+
+-----------------------------------------------------
+news title: <b>Android</b>, IOS Webview 개발 팁
+description: <b>Android</b>의 경우는 form 태그 유무와 상관없이 기대한 동작을 수행하였지만 IOS의 경우 form 태그로... <b>Android</b>, IOS 동일하며 SPA 작업시 submit 이벤트를 취소해주는 코드가 필요하다. 서비스의 구동...
+link: http://openapi.naver.com/l?AAACssTS2qtE3MSynKz0xRyyhKTbPNKCkpUDV2VDVyA6Li0oLUoqzEvHS95PxcID+xKDkjsyy1GMg0srQwUCuxNTQxMzI3MjcwNDExNlHLtS0udU8z9s8JM8zJDDTOcTY28c5NNq3IKvTNCVQ1dgEARWxbvnAAAAA=
+
+-----------------------------------------------------
+news title: acid <b>android</b> live 2016 #2
+description: 칼퇴해야게ㅛ네 ㅋㅋㅋㅋ 암튼 또한번의 희망과 라르크는 끝났구나 하는 절망ㅋㅋㅋㅋㅋㅋ 그래 뭐라도 해라 ^^ 선행추첨은 낼부터~ acid <b>android</b> live 2016 #2 2016.6.23 (thu)...
+link: http://openapi.naver.com/l?AAAA2LQQ+CIBiGfw0eHXwg2IFDzrm1VYdqrbyZoFgqSWTZr4/tvTzPnnd6a7fIalTOdioyTjfSeP9EdI2gCLv1to3HatYuru0QBE5JUr1Ug2hx0KpzuvaI5lvbIuCh3dtAAJjTlAATgkReEsZBgMCEMZpEgyxVybLV5rdcp/N9d+zt9zTnF2EeCLJPuP8BBDzxRZQAAAA=
+
+-----------------------------------------------------
+news title: <b>Android</b>에서 접속하기 - PPTP 방식
+description: <b>Android</b>에서 접속하기 - PPTP 방식 (닫기)PPTP 방식을 이용한 일반적인 접속 방법 설명입니다.PPTP... (OpenVPN 방식 접속 방법 보러가기)접속 설정안드로이드(<b>Android</b>) 기기에는 PPTP 접속 기능이 자체 내장되어...
+link: http://openapi.naver.com/l?AAAA2MsQ7CIBiEnwbGpvwgbQeGGoMOxqGL2q0CpaQFlFAT316SW+7LfffZTfqJKegUncZLMrNYcn4j2iOQJa8t2ipMX5MqFX0B2mnn1yUgKgejXTIqI3q6RouAl+0tlgZQ844xQikBnAVhHBpoasIYPWAvrJ2PY2vksx1yecx35ca+uzzO876tRf8DF9DiVJQAAAA=
 
 -----------------------------------------------------
 news title: Google, Chrome OS와 <b>Android</b> 합친다
 description: 안녕하세요, 블루스크린입니다.Google Pixel C(출처:Google) Google이 최근 프레스 이벤트에서 <b>Android</b>... Chromebook(출처:Google) 이처럼 <b>Android</b>가 스마트폰, 태블릿에 이어서 노트북 PC에까지도 진출하려는...
+link: http://openapi.naver.com/l?AAAA2LyQ6CMBRFv6ZdEvo6yaILDUFDDIlu1CXSUpCh2FQcvt4md3NOzn2+jP+qetbe9Rp33rSqC2FBdIugiLuPziZzvRqfNG6KYghvLjcpCIZocTa696YJiOZHZxGIWFcuEkDKgUtBs0zgoAgTIEGmhDHK8aQeO3vjn1Hs19+SkXYZqrzW5eV6KE/x/AesiOEelAAAAA==
 
 -----------------------------------------------------
 news title: [<b>Android</b>]Google Games Play Service Plugin Setup
 description: (우선 <b>Android</b> 기준으로 설명을 넣었고, iOS 설명은 추가할 예정.) [먼저 알면 좋은 내용] 그... * 일단 <b>Android</b> Setup을 우선적으로 설명하면, 아래 처럼 내용을 추가하면 된다. 위 입력...
-
------------------------------------------------------
-news title: <b>Android</b> Head Unit (안드로이드 올인원) 매립 DIY
-description: <b>Android</b> Head Unit 장착 DIY. 옵션이 없어도 너~~~~무 없는 86. 그 중에 제일은 허접한 AVN 이다. 기본형... - <b>Android</b> 운영체제 (이왕이면 4.4 Kikat 이상) - LED 색상 변환 가능 (공조쪽 붉은색과 매치가 될 것) - 별도의...
+link: http://openapi.naver.com/l?AAAA2Lyw7CIBREvwaWTblQsAsWPlI10cb4B5VLKdFCS9Do30syizmTM+vbpp8eAqbokU7JjnrKeSF8S6Arebyiq8LwsakycS4Dzs/g3ZQJ7+4WfbKm1MMlOgKyuH0sBFA3TDEuNwJo1kxIUKBqJgRv6KxbXKw8n/bGrNeE+D3eWu7ibuyFK+c/yxjyP5IAAAA=
 
 -----------------------------------------------------
 news title: Best Podcast Apps for <b>Android</b> Reviewed
 description: your <b>Android</b> device to manage all of them, and to make your listening experience as... Pocket Casts for <b>Android</b> (winner) – $3.99 Pocket Casts is my go to app for all things podcasts....
-
------------------------------------------------------
-news title: <b>Android</b> Build- in Unity
-description: <b>Android</b> SDK 설치 http://developer.<b>android</b>.com/sdk/index.html#Other 여기에서 <b>Android</b> Studio라는 걸 함께 설치하거나 SDK만 설치할 수가 있는데 나는 스튜디오로 앱을 개발하거나 할 목적이 아니기 때문에...
+link: http://openapi.naver.com/l?AAAC2LvQ7CIBRGnwY2jAW0LgwS/wZ360jLbcEqIL218e1lMPmSk5Oc7z1D/ioTbI7eUpehVw4xEbEn/FSGGYJtn3FYBcDiLUzIUrSdKTQpTez/ZRk+HhawJaKoKrnlNa/XlZRiQ19qJ++xb67z+BDdUWvC9eDHm2vO6aIXIg4/CqSbqogAAAA=
 

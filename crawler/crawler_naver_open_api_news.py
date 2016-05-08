@@ -1,7 +1,6 @@
 # naver open api news search crawler
 
 import urllib3
-import urllib.request
 import urllib.parse
 from bs4 import BeautifulSoup
 import os
@@ -40,6 +39,7 @@ for item in items:
     file.write("-----------------------------------------------------\n")
     file.write("news title: " + item.title.get_text(strip=True) + '\n')
     file.write("description: " + item.description.get_text(strip=True) + '\n')
+    file.write("link: " + item.link.get_text(strip=True) + '\n')
     file.write('\n')
 
 file.close()
